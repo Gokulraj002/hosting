@@ -1,0 +1,63 @@
+.bgcl{
+    background-color: #232323;
+}
+.bgclr {
+    background: #232323;
+    color: white;
+    border: 0;
+    padding: 14px 17px;
+    border-radius: 0;
+  }
+  .bgclr1{
+    background-color: #202020;
+   padding: 25px 0px;
+   
+  }
+  
+  .bgclr:hover:not(.actives) {
+    background-color: #0a0a0a;
+    color: #fff;
+
+  }
+  
+  .actives {
+    background-color: #6719bd;
+  }
+  .w{
+    width: 90%;
+  }
+
+ #wi{
+
+    padding-left: 0 !important;
+  }
+  #width{
+    width: 21%;
+    padding-right: 0 !important;
+    height: 677px;
+  }
+.logos{
+  background-color: #6719BD;
+  
+}
+.font{
+  font-size: 18px;
+  font-weight: 700;
+}
+.size{
+  font-size: 15px;
+  line-height: 25px;
+}
+.line{
+  line-height: 15.3px;
+}
+.colss{
+  width: 80%;
+}
+#components1{
+  padding-left: 0 !important;
+  padding-right: 0 !important;
+}
+.cols{
+  width: 20%;
+}

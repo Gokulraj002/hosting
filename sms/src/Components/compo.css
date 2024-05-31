@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.one{
+    background: #6A40D0;
+}
+.border_color{
+    border-bottom: 3px solid #6719BD;
+    width: 98%;
+    font-size: 30px;
+}
+.dash{
+font-size: 18px;
+line-height: 19px;
+font-weight: 500;
+}
+.six{
+    background: #CA8012;
+}
+.four{
+    background-color: #8F8F2C;
+}
+.change{
+    font-size: 13px;
+}
+.fontweight{
+    font-weight: 700;
+}
